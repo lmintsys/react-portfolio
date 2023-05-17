@@ -1,0 +1,102 @@
+/* General */
+
+* {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+.text {
+  background-color: #E6B839;
+  border-radius: 20px;
+  padding: 1em;
+  font-size: 1.2em;
+}
+
+.container {
+  margin-top: 2em;
+}
+
+
+/*Navigation */
+
+#myName {
+  font-size: 3em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.nav-pills a {
+  text-decoration: none !important;
+  color:rgba(221, 248, 255, 0.6); 
+}
+
+.nav-pills a:hover {
+  color:rgba(221, 248, 255, 0.8);
+}
+
+.active {
+  border-radius: 15px !important;
+  color:#1A4E94 !important;
+  background-color: #E6B839 !important;
+}
+
+.navbar {
+  background-color: #1A4E94;
+}
+
+.nav-item {
+  font-size: 1.7em;
+  padding: 0 0.5em 0 0.5em;
+}
+
+
+/* About */
+
+#profile {
+  width: 7em;
+  border-radius: 100%;
+  margin-bottom: 2em;
+}
+
+
+/* Portfolio */
+
+.card {
+  box-shadow: 5px 5px 20px;
+  background-color: #b5d2ea;
+}
+
+.card-title a {
+  color: #1A4E94;
+  text-decoration: none !important;
+}
+
+#portfolio-container {
+  padding: 2em;
+  padding-top: 0;
+}
+
+
+/* Footer */
+
+#footer {
+  background-color: #b5d2ea !important;
+  padding: 2em;
+  margin-top: 2em;
+}
+
+.social-media {
+  margin: 2em;
+  color: #1A4E94;
+  
+}
+
+@media screen and (max-width: 1024px) {
+  #myName {
+    font-size: 2.5em;
+}
+.nav-item {
+    font-size: 1.3em;
+}
+}
