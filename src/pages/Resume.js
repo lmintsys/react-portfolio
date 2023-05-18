@@ -1,4 +1,5 @@
 import React from "react";
+import resume from "../assets/files/resume.pdf";
 
 export default function Resume() {
   const frontEnd = [
@@ -33,7 +34,7 @@ export default function Resume() {
       </div>
       <div class="container text">
         <h3>
-          Download my resume <a href="/assets/files/resume.pdf">here</a>
+          Download my resume <a href={resume}>here</a>
         </h3>
         <br></br>
         <h3>Front-end Proficiencies</h3>

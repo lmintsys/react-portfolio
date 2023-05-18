@@ -13,9 +13,10 @@ To create this app, packages were installed.
 ## Usage
 
 Those who will use this protfolio template to create their portfolio may add info about themselves, their projects, resume and proficiencies, and contact info (i.e. links to GitHub, LinkedIn and Stck Overflow). The users who will review this portfolio can see the mentioned above sections, and leave a message to the resume owner.  
-![about](public/assets/images/about.png)  
-![projects](public/assets/images/projects.png)  
-![contact](public/assets/images/contact.png)
+[Portfolio App](https://lmintsys.github.io/react-portfolio/)  
+![about](src/assets/images/about.png)  
+![projects](src/assets/images/projects.png)  
+![contact](src/assets/images/contact.png)
 
 ## Credits
 

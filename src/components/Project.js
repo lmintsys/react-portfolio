@@ -1,4 +1,11 @@
 import React from "react";
+import horiseon from "../assets/images/horiseon.jpg";
+import password from "../assets/images/password-generator.png";
+import weather from "../assets/images/weather.png";
+import scheduler from "../assets/images/scheduler.png";
+import melody from "../assets/images/melody-match.png";
+import scriptomatic from "../assets/images/scriptomatic.png";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 export default function Project() {
@@ -7,37 +14,37 @@ export default function Project() {
       name: "Horiseon - code refactor",
       github: "https://github.com/lmintsys/horiseon-code-refactor",
       link: "https://lmintsys.github.io/horiseon-code-refactor/",
-      img: "/assets/images/horiseon.jpg",
+      img: horiseon,
     },
     {
       name: "Password Generator",
       github: "https://github.com/lmintsys/password-generator",
       link: "https://lmintsys.github.io/password-generator/",
-      img: "/assets/images/password-generator.png",
+      img: password,
     },
     {
       name: "API Weather Dashboard",
       github: "https://github.com/lmintsys/api-weather-dashboard",
       link: "https://lmintsys.github.io/api-weather-dashboard/",
-      img: "/assets/images/weather.png",
+      img: weather,
     },
     {
       name: "Workday Scheduler",
       github: "https://github.com/lmintsys/work-day-scheduler",
       link: "https://lmintsys.github.io/work-day-scheduler/",
-      img: "/assets/images/scheduler.png",
+      img: scheduler,
     },
     {
       name: "Melody Match",
       github: "https://github.com/team-2-project/Melody-Match",
       link: "https://team-2-project.github.io/Melody-Match/",
-      img: "/assets/images/melody-match.png",
+      img: melody,
     },
     {
       name: "Scriptomatic",
       github: "https://github.com/ScriptoNaughts/Scriptomatics",
       link: "https://shrouded-garden-51163.herokuapp.com/",
-      img: "/assets/images/scriptomatic.png",
+      img: scriptomatic,
     },
   ];
   const projectInfo = data.map((project) => {
