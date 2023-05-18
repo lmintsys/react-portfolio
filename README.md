@@ -4,7 +4,7 @@
 
 ## Description
 
-The aim of this project was to build a single-page portfolio app using React.js. In this portfolio a user can showcase their work, share info about themselves as well as their resume. In addition, other users may leave messages to the owner of the resume. This portfolio is a valuable tool in expanding one's network and showcasing their work to potential employers. Working on this project helped me gaining further understanding in using React for building a single-page app that does not need to reload itself each time the page changes.
+The aim of this project was to build a single-page portfolio app using React. In this portfolio a user can showcase their work, share info about themselves as well as their resume. In addition, other users may leave messages to the owner of the resume. This portfolio is a valuable tool in expanding one's network and showcasing their work to potential employers. Working on this project helped me gaining further understanding in using React for building a single-page app that does not need to reload itself each time the page changes.
 
 ## Installation
 
@@ -13,9 +13,9 @@ To create this app, packages were installed.
 ## Usage
 
 Those who will use this protfolio template to create their portfolio may add info about themselves, their projects, resume and proficiencies, and contact info (i.e. links to GitHub, LinkedIn and Stck Overflow). The users who will review this portfolio can see the mentioned above sections, and leave a message to the resume owner.  
-![about](assets/images/about.png)  
-![projects](assets/images/projects.png)  
-![contact](assets/images/contact.png)
+![about](public/assets/images/about.png)  
+![projects](public/assets/images/projects.png)  
+![contact](public/assets/images/contact.png)
 
 ## Credits
 
