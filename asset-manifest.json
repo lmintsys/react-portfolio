@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.64422e48.css",
-    "main.js": "/react-portfolio/static/js/main.feb6af30.js",
+    "main.js": "/react-portfolio/static/js/main.9988a3b0.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/horiseon.jpg": "/react-portfolio/static/media/horiseon.bb0d8699250942ef2473.jpg",
     "static/media/profile.png": "/react-portfolio/static/media/profile.3dda612271c1d03b32e4.png",
+    "static/media/tinysquares.png": "/react-portfolio/static/media/tinysquares.99004ee2f03570a2e435.png",
     "static/media/scriptomatic.png": "/react-portfolio/static/media/scriptomatic.62c907987b93e280df4d.png",
     "static/media/weather.png": "/react-portfolio/static/media/weather.7c83611c1516e4ac9bf3.png",
     "static/media/resume.pdf": "/react-portfolio/static/media/resume.96968bc795645f03cdeb.pdf",
-    "static/media/scheduler.png": "/react-portfolio/static/media/scheduler.0a00319f9357038594df.png",
     "static/media/password-generator.png": "/react-portfolio/static/media/password-generator.e7b2c34f063f15598160.png",
     "static/media/melody-match.png": "/react-portfolio/static/media/melody-match.c9bc75e7b634bb137aba.png",
     "index.html": "/react-portfolio/index.html",
     "main.64422e48.css.map": "/react-portfolio/static/css/main.64422e48.css.map",
-    "main.feb6af30.js.map": "/react-portfolio/static/js/main.feb6af30.js.map",
+    "main.9988a3b0.js.map": "/react-portfolio/static/js/main.9988a3b0.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64422e48.css",
-    "static/js/main.feb6af30.js"
+    "static/js/main.9988a3b0.js"
   ]
 }
